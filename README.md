@@ -3,7 +3,8 @@
 Este es uno de los proyectos en que he trabajado durante el bootcamp de Data Science. Es un proyecto de Machine Learning donde el objetivo es predecir los precios de alquiler de Airbnb en España. Es un estudio complementario al proyecto de Análisis Exploratorio de Datos que hice (se puede consultar [aquí](https://github.com/secady/Analisis_Airbnb-vs-Inmobiliaria)). Como tengo 2 datasets de Airbnb (el dataset grande y el dataset pequeño), así hice experimentos con ambos para averiguar cuál tiene el mejor resultado.
 
 Problema: Regresión
-Target: Precio (EUR/noche)
+<br>Target: Precio (EUR/noche)
+
 Datasets:
 - Grande --> 102.881 filas x 17 columnas
 - Pequeño --> 900 filas x 56 columnas
