@@ -7,7 +7,8 @@ Target: Precio (EUR/noche)
 Datasets:
 - Grande --> 102.881 filas x 17 columnas
 - Pequeño --> 900 filas x 56 columnas
-<br>Modelos de Machine Learning:
+
+Modelos de Machine Learning:
 - RandomForest
 - AdaBoost
 - GradientBoost
