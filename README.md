@@ -28,3 +28,4 @@ Modelos de Machine Learning:
   1. ¿Cuánto es el precio de alquiler (EUR/noche)?
   2. ¿Cuáles son los factores que influyen en el precio de alquiler de Airbnb?
 
+Para ver el código completo, haz click a este enlace para dirigirte a la carpeta del proyecto: https://drive.google.com/drive/folders/1dSCPKOoSbItt-qHnynpKrOQ56ynrsMqb?usp=sharing
